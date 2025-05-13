@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+langchain>=0.1.14
+langchain-core>=0.1.14
+langchain-community>=0.0.25
+langchain-groq
+langchain-chroma
+langchain-huggingface
+chromadb
+huggingface-hub
+pypdf
+sentence-transformers
+tqdm
